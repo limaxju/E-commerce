@@ -28,6 +28,6 @@ A funcionalidade de um site de e-commerce (comércio eletrônico) é fornecer um
 * ``GIT``
 
 ## Fontes Consulta
-* [1-](https://exame.com/invest/guia/o-que-e-e-commerce-red04/)
+* (https://exame.com/invest/guia/o-que-e-e-commerce-red04/)
 ## Autores
 * Julia Eduarda de Lima Barbosa - Desenvolvedor
