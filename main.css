@@ -1,0 +1,56 @@
+/* Estilo do corpo da página */
+body {
+    background: linear-gradient(to bottom, #f7d4dd, #ff4271);
+    font-family: "Arial", sans-serif;
+    color: #333; /* Melhor contraste para texto */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo do container principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px; /* Espaçamento maior */
+    background-color: #fff; /* Fundo branco para destacar o conteúdo */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra suave */
+}
+
+/* Estilo dos cabeçalhos h1 */
+h1 {
+    color: #ff4271;
+    font-size: 36px; /* Tamanho maior */
+}
+
+/* Estilo do formulário */
+form {
+    padding: 20px;
+}
+
+/* Estilo dos campos de formulário */
+.form-control {
+    margin-bottom: 20px; /* Espaçamento maior entre campos */
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc; /* Borda fina */
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Estilo dos botões primários */
+.btn-primary {
+    background: #ff4271;
+    color: #fff;
+    border: none;
+    padding: 12px 24px; /* Botão maior */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+/* Estilo de hover para botões primários */
+.btn-primary:hover {
+    background: #8b0825;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); /* Sombra mais pronunciada no hover */
+}
